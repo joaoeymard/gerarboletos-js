@@ -46,11 +46,11 @@
   "dependencies": {
     "base64-stream": "^1.0.0",
     "moment": "^2.24.0",
-    "pdfkit": "0.10.0"
+    "pdfkit": "^0.10.0"
   },
   "devDependencies": {
-    "eslint": "^6.5.1",
-    "nodeunit": "0.11.3"
+    "eslint": "^6.8.0",
+    "nodeunit": "^0.11.3"
   },
   "repository": {
     "type": "git",
